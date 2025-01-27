@@ -71,6 +71,6 @@ while (attempts < maxAttempts)
 
   if (attempts == maxAttempts)
   {
-    Console.WriteLine("Oh, no! You're all out of answers! Better luck next time.");
+    Console.WriteLine("Oh, no! You're all out of guesses! Better luck next time.");
   }
 }
